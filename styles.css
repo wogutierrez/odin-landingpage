@@ -3,15 +3,39 @@ body {
     font-family: roboto;
 }
 
+/* FIRST HEADER */
+
 .group-menu-header-full{
     display: flex;
     justify-content: space-between;
-    margin: 0% 20% 0% 20%;
 }
-
 
 .group-menu-header-left , ul{
     display: flex;
     gap: 30px;
 }
 
+
+/* SECOND MENU */
+
+.group-second-full{
+    display: flex;
+}
+
+/* IMAGE CONTAINER */
+
+.group-imageDisplay-full{
+    display: flex;
+    
+}
+
+.group-imagesDisplay-title{
+    display: flex;
+    justify-content: center;
+}
+
+.group-imagesDisplay-ContainerFull{
+    display: flex;
+    justify-content: center;
+    
+}
