@@ -4,6 +4,7 @@ padding: 0;
 }
 
 body {
+<<<<<<< HEAD
     font-family: "Roboto Slab", serif;
 }
 
@@ -53,3 +54,45 @@ a {
 
 
 
+=======
+    background-color: white;
+    font-family: roboto;
+}
+
+/* FIRST HEADER */
+
+.group-menu-header-full{
+    display: flex;
+    justify-content: space-between;
+}
+
+.group-menu-header-left , ul{
+    display: flex;
+    gap: 30px;
+}
+
+
+/* SECOND MENU */
+
+.group-second-full{
+    display: flex;
+}
+
+/* IMAGE CONTAINER */
+
+.group-imageDisplay-full{
+    display: flex;
+    
+}
+
+.group-imagesDisplay-title{
+    display: flex;
+    justify-content: center;
+}
+
+.group-imagesDisplay-ContainerFull{
+    display: flex;
+    justify-content: center;
+    
+}
+>>>>>>> 67fc52504c24eb1ac271b1e84505ff5eae28ee6e
